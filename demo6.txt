@@ -1,1 +1,2 @@
 This is demo
+This is Folder 2 and feature 2
